@@ -9,6 +9,6 @@ app.on('ready', function() {
         height: 768
     });
     
-    mainWindow.loadURL('file://' + __dirname + '/windows/main/main.html');
+    mainWindow.loadUrl('file://' + __dirname + '/windows/main/main.html');
     mainWindow.openDevTools();
 });
