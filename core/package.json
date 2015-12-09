@@ -1,0 +1,22 @@
+{
+  "name": "messallin",
+  "version": "1.0.0",
+  "description": "multiple messaging software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hild-Franck/MesAllIn.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hild-Franck/MesAllIn/issues"
+  },
+  "homepage": "https://github.com/Hild-Franck/MesAllIn#readme",
+  "dependencies": {
+    "electron": "^0.4.1"
+  }
+}
