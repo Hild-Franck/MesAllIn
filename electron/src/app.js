@@ -1,4 +1,5 @@
 var app = require('app'),
+    ipc = require('ipc'),
     BrowserWindow = require('browser-window');
 
 var mainWindow = null;

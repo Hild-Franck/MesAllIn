@@ -3,3 +3,4 @@ node_modules/
 typings/
 cache/
 dist/
+bower_components/
