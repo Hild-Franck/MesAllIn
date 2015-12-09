@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/Hild-Franck/MesAllIn#readme",
   "dependencies": {
-    "electron": "^0.4.1"
+    "electron": "^0.4.1",
+    "facebook-chat-api": "git+https://github.com/Schmavery/facebook-chat-api.git"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.35.4"
   }
 }

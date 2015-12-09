@@ -1,0 +1,17 @@
+{
+  "name": "messallin",
+  "description": "multiple messaging software",
+  "main": "index.js",
+  "authors": [],
+  "license": "MIT",
+  "homepage": "https://github.com/Hild-Franck/MesAllIn",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
