@@ -1,0 +1,1 @@
+/Applications/nwjs12.app/Contents/MacOS/nwjs .
